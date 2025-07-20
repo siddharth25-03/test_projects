@@ -28,4 +28,4 @@ const signupUser = async (req, res) => {
   }
 };
 
-module.exports = { signupUse };
+module.exports = { signupUser };
